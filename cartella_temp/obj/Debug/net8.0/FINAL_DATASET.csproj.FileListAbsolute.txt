@@ -1,5 +1,0 @@
-/Users/rebeccaderosa/Desktop/run_codeql/cartella_temp/obj/Debug/net8.0/FINAL_DATASET.csproj.AssemblyReference.cache
-/Users/rebeccaderosa/Desktop/run_codeql/cartella_temp/obj/Debug/net8.0/FINAL_DATASET.GeneratedMSBuildEditorConfig.editorconfig
-/Users/rebeccaderosa/Desktop/run_codeql/cartella_temp/obj/Debug/net8.0/FINAL_DATASET.AssemblyInfoInputs.cache
-/Users/rebeccaderosa/Desktop/run_codeql/cartella_temp/obj/Debug/net8.0/FINAL_DATASET.AssemblyInfo.cs
-/Users/rebeccaderosa/Desktop/run_codeql/cartella_temp/obj/Debug/net8.0/FINAL_DATASET.csproj.CoreCompileInputs.cache
